@@ -1,1 +1,1 @@
-# panda-challenge-try-2
+# panda-challenge
